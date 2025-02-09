@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a passionate web developer from the breathtaking valleys of Kashmir. I love building interactive and user-friendly web experiences using modern technologies. When I'm not coding, I'm exploring new tools, working on innovative projects. Currently i am learning Python, React and DSA.
+I'm a passionate web developer from the breathtaking valleys of Kashmir. I love building interactive and user-friendly web experiences using modern technologies. When I'm not coding, I'm exploring new tools, working on innovative projects. Currently i am learning Python, React and DSA. Also i am trying to contibute in open source projects.
 
 ---
 
