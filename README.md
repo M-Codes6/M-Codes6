@@ -10,13 +10,13 @@ From Sopore, Jammu & Kashmir
 I am a Computer Science graduate passionate about data-driven problem solving.
 I enjoy working with data, identifying patterns, and building predictive models using Python.
 
-📍Recently, I’ve completed end-to-end projects involving:
+📌 Recently, I’ve completed end-to-end projects involving:
 Exploratory Data Analysis (EDA)
 Feature Engineering
 Regression & Classification models
 Model evaluation using MAE, R², Accuracy
 
-📍Currently improving my:
+📌 Currently improving my:
 Machine Learning fundamentals
 Data Structures & Algorithms
 Problem-solving skills
@@ -25,14 +25,21 @@ Problem-solving skills
 
 ### Tech Stack
 
-📍Languages:
+📌 Languages:
 Python, JavaScrip.
 
-📍Data & ML:
+📌 Data & ML:
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-📍Tools:
+📌 Tools:
 Git, GitHub, Jupyter Notebook, VS Code
 
 
+
+📌 Featured Projects
+
+🎓 Student Performance Analysis
+🚢 Titanic Survival Prediction
+
+More projects coming soon…
 
