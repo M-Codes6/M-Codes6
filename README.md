@@ -1,43 +1,31 @@
 # Hi there, I'm Muzamil! 👋
 
-## Aspiring Data Analyst | Data Science Enthusiast | Python Developer
+## Junior Data Scientist | Machine Learning | Python | SQL (Learning)
 From Sopore, Jammu & Kashmir
 
 ---
 
 ### About Me
 
-I am a Computer Science graduate passionate about data-driven problem solving.
-I enjoy working with data, identifying patterns, and building predictive models using Python.
+I am a Junior Data Scientist with hands-on experience in building end-to-end machine learning and data analysis projects.
 
-📌 Recently, I’ve completed end-to-end projects involving:
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Regression & Classification models
-Model evaluation using MAE, R², Accuracy
+I have worked on real-world datasets to:
+- Perform Exploratory Data Analysis (EDA)
+- Build predictive models (Regression & Classification)
+- Apply feature engineering and model evaluation techniques
 
-📌 Currently improving my:
-Machine Learning fundamentals
-Data Structures & Algorithms
-Problem-solving skills
+📌 Key Projects:
+- Customer Churn Prediction (Logistic Regression, Random Forest)
+- Customer Segmentation (K-Means Clustering)
+- House Price Prediction (Regression)
+- Web Scrapping (Data Collection)
 
----
+📊 Skills:
+- Python (Pandas, NumPy)
+- Machine Learning (Scikit-learn)
+- Data Analysis & EDA
+- Data Visualization (Matplotlib, Seaborn)
 
-### Tech Stack
+🚀 Currently learning SQL to strengthen data querying and analysis skills.
 
-📌 Languages:
-Python, JavaScrip.
-
-📌 Data & ML:
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-📌 Tools:
-Git, GitHub, Jupyter Notebook, VS Code
-
-
-
-🚀 Featured Project:
-👉 Codveda Data Science Internship (End-to-End ML Projects)
-
-More projects coming soon…
 
