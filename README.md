@@ -36,10 +36,8 @@ Git, GitHub, Jupyter Notebook, VS Code
 
 
 
-📌 Featured Projects
-
-🎓 Student Performance Analysis
-🚢 Titanic Survival Prediction
+🚀 Featured Project:
+👉 Codveda Data Science Internship (End-to-End ML Projects)
 
 More projects coming soon…
 
