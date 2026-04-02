@@ -1,13 +1,13 @@
 # Hi there, I'm Muzamil! 👋
 
-## Junior Data Scientist | Machine Learning | Python | SQL (Learning)
+## Data Scientist Enthusiast | Machine Learning | Python | SQL (Learning)
 From Sopore, Jammu & Kashmir
 
 ---
 
 ### About Me
 
-I am a Junior Data Scientist with hands-on experience in building end-to-end machine learning and data analysis projects.
+I am a Data Scientist Enthusiast with hands-on experience in building end-to-end machine learning and data analysis projects.
 
 I have worked on real-world datasets to:
 - Perform Exploratory Data Analysis (EDA)
