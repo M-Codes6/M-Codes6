@@ -39,7 +39,7 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Codes6&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Codes6&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Codes6&layout=compact&theme=tokyonight&hide_border=true)
 
