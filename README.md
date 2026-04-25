@@ -88,16 +88,11 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 
 ---
 
-## Resume
-
-📄 Resume: [Click Here](YOUR_RESUME_LINK)
-
----
 
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/muzamilnaik/
 - Email: naikmuzamil06@gmail.com
-- Portfolio: YOUR_PORTFOLIO_LINK (if available)
+
 
 ---
