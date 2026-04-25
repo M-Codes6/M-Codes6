@@ -1,31 +1,65 @@
-# Hi there, I'm Muzamil! 👋
+# Hi there 👋, I'm Muzamil
 
-## Data Scientist Enthusiast | Machine Learning | Python | SQL (Learning)
-From Sopore, Jammu & Kashmir
+## Aspiring Data Scientist | Machine Learning | Python | SQL (Learning)
+
+📍 Sopore, Jammu & Kashmir
 
 ---
 
-### About Me
+## About Me
 
-I am a Data Scientist Enthusiast with hands-on experience in building end-to-end machine learning and data analysis projects.
+I am a Data Science enthusiast passionate about building Machine Learning and Data Analysis projects using real-world datasets.
 
-I have worked on real-world datasets to:
-- Perform Exploratory Data Analysis (EDA)
-- Build predictive models (Regression & Classification)
-- Apply feature engineering and model evaluation techniques
+I enjoy working on:
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling
+- Regression & Classification
+- Feature Engineering
+- Model Evaluation
+- Data Visualization
 
-📌 Key Projects:
-- Customer Churn Prediction (Logistic Regression, Random Forest)
-- Customer Segmentation (K-Means Clustering)
-- House Price Prediction (Regression)
-- Web Scrapping (Data Collection)
+Currently improving my skills in SQL and advanced Data Science workflows.
 
-📊 Skills:
-- Python (Pandas, NumPy)
-- Machine Learning (Scikit-learn)
-- Data Analysis & EDA
-- Data Visualization (Matplotlib, Seaborn)
+---
 
-🚀 Currently learning SQL to strengthen data querying and analysis skills.
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+## Skills
+
+### Programming & Libraries
+- Python
+- Pandas
+- NumPy
+
+### Machine Learning
+- Scikit-learn
+- Regression
+- Classification
+- Clustering
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+
+### Currently Learning
+- SQL
+- Advanced Machine Learning
+- Real-world Data Science Projects
+
+---
+
+## Connect With Me
+
+- LinkedIn
+- Email
+- Portfolio (if available)
