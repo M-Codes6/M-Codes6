@@ -43,9 +43,9 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Codes6&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=M-Codes6&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=M-Codes6&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Codes6&theme=tokyo-night)
 
 ---
 
