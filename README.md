@@ -49,11 +49,6 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 
 ---
 
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=M-Codes6&theme=tokyonight&no-frame=true&row=1)
-
----
 
 ## Currently Working On
 
