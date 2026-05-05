@@ -37,15 +37,22 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 
 ---
 
-## GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Codes6&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Codes6&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=M-Codes6&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-Codes6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Codes6&theme=tokyo-night)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Codes6&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=M-Codes6&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M-Codes6&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+
 
 
 
