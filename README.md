@@ -35,6 +35,7 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+
 ---
 
 
@@ -62,6 +63,7 @@ Currently improving my skills in SQL and advanced Data Science workflows.
 - Preparing for Internship and Job Opportunities
 
 ---
+
 
 ## Skills
 
