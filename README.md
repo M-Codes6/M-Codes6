@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Data Science enthusiast passionate about building Machine Learning and Data Analysis projects using real-world datasets.
+I am a Data Science Student passionate about building Machine Learning and Data Analysis projects using real-world datasets.
 
 I enjoy working on:
 
