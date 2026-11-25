@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muzamil
 
-## Aspiring Data Scientist | Machine Learning | Python | SQL (Learning)
+##  Data Science Student | Machine Learning | Python | SQL 
 
 ![](https://komarev.com/ghpvc/?username=M-Codes6&color=blue)
 
