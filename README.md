@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muzamil
+# Hi there 👋, I'm Muzamil Naik
 
 ##  Data Science Student | Machine Learning | Python | SQL 
 
